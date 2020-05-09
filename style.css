@@ -1,0 +1,32 @@
+span{
+  font-size: 11px;
+}
+
+h3{
+  font-size: 2em;
+}
+
+.sec_character02{
+  display: inline-block;
+  text-align: center;
+  display: table;
+}
+
+.inner{
+  width: 400px;
+}
+
+ul{
+  display: inline-block;
+  vertical-align: middle;
+}
+
+li{
+  display: inline-block;
+}
+
+img{
+  width: 300px;
+  margin: auto;
+  display: block;
+}
